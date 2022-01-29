@@ -2,21 +2,15 @@
 
 __________
 
-### 📚 Visão Geral
+### **📚 Visão Geral**
 
-#### 	Repositório criado para compartilhar programas desenvolvido na linguagem Java, colocando em prática conceitos como: 
+#### Repositório criado para compartilhar programas desenvolvido na linguagem Java. 
 
-<u>Estrutura </u>:
+### ✍**Objetivo** 
 
-- Sequencial
-- Decisão
-- Repetição
-- Arrays
-- Loops
+#### Criar algoritmos com o intuito de desenvolver o raciocínio lógico  computacional.
 
-### **⚙Ferramenta utilizada** 
+### **⚙ Ferramenta Utilizada** 
 
-__________
-
-#### 	IntelliJ IDEA
+#### IntelliJ IDEA.
 
